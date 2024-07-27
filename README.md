@@ -4,6 +4,8 @@ AI based yoga pose detection using CNN and YOLO
 ## Sample Video
 https://github.com/user-attachments/assets/f954c507-7c93-4cb2-b80a-f11585491cc7
 
+P.S. I'm really bad at yoga. :)
+
 ## About
 
 This project uses YOLOv8 for real-time object detection and a TensorFlow model for yoga pose classification. It captures live video, detects the presence of a person, extracts and analyzes their pose to provide accurate yoga pose identification. This system helps ensure correct yoga practice by providing immediate feedback on pose accuracy.
