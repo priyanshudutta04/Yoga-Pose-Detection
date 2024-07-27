@@ -21,7 +21,7 @@ Dataset Source Link: [data url](https://universe.roboflow.com/new-workspace-mujg
    
 2. Clone the repository
 ```
-git clone https://github.com/priyanshudutta04/Cats-Vs-Dogs.git
+git clone https://github.com/priyanshudutta04/Yoga-Pose-Detection.git
 ```
 
 3. Install dependencies
