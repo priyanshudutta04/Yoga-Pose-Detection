@@ -1,5 +1,5 @@
 # Yoga-Pose-Detection
-AI based yoga pose detection using CNN and YOLO
+Real-time ai based yoga pose detection using CNN and YOLO
 
 ## Sample Video
 https://github.com/user-attachments/assets/f954c507-7c93-4cb2-b80a-f11585491cc7
